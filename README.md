@@ -11,5 +11,8 @@ Script for downloading youtube video to MP3 320kbps playlist easily.
 7. All video will auto convert to mp3 (320kbps) and will be placed in Downloads folder.
 8. Done.
 
+### Example
+![alt text](image.png)
+
 ### For more info visit:
 https://github.com/ytdl-org/youtube-dl
