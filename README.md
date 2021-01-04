@@ -1,4 +1,4 @@
-# youtubedl - Youtube Downloader Script (Windows Only)
+# YoutubeDL - Youtube Downloader Script (Windows Only)
 Script for downloading youtube video to MP3 320kbps playlist easily.
 
 ### Follow below steps to make it work!
