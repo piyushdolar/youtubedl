@@ -14,5 +14,8 @@ Script for downloading youtube video to MP3 320kbps playlist easily.
 ### Example
 ![alt text](image.png)
 
+### For Developer
+If you're developer you can direclty use the python script /download.py file and execute it in local system, you'll asked to enter the youtube playlist url make sure you already have the `yt-dlp` installed in your system, Enjoy!
+
 ### For more info visit:
 https://github.com/ytdl-org/youtube-dl
